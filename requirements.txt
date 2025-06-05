@@ -73,7 +73,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
-jupyter-core==4.4.0
+jupyter-core==5.8.0
 jupyterlab==0.35.3
 jupyterlab-server==0.2.0
 keyring==17.0.0
